@@ -35,3 +35,4 @@
 *.txt
 
 cmake-build-debug
+.vscode
